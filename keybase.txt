@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/gojun077
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://eatpeppershothot.cyou
+  * I am gojun077 (https://keybase.io/gojun077) on keybase.
+  * I have a public key ASAkhF89of-Ue6lZY8A05D8DbZY3Ty4uwNZOZaXr1d2tlQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01011f24048fd3c60f057b3b68889e783b1f4c49cd082397d49b2e22327ac34ce3de0a",
+      "host": "keybase.io",
+      "kid": "012024845f3da1ff947ba95963c034e43f036d96374f2e2ec0d64e65a5ebd5ddad950a",
+      "uid": "d06b620dbd4bdb44736ba36ec115d319",
+      "username": "gojun077"
+    },
+    "merkle_root": {
+      "ctime": 1685866933,
+      "hash": 
+"fedd332f1b9066f26689d77cc3b057b0812bcadb9f74dc5b19904861af15190fb613f2eed388d5e1cbfacb3d52e2a161a158223a4ce2c8a9b118d50e85990e6c",
+      "hash_meta": "54fe49d57e7545ce691fd2bfab1f5b5d5b19a100a67dbc90eb4c768c3cd223bf",
+      "seqno": 24529173
+    },
+    "service": {
+      "entropy": "ASMon/NcdeMUtX6pjoh56mRh",
+      "hostname": "eatpeppershothot.cyou",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1685867006,
+  "expire_in": 504576000,
+  "prev": "a6cb14f50a1fb1a78ace369964adb041abc9dbeff4f48e2ba269765f40d57f4b",
+  "seqno": 76,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJIRfPaH/lHupWWPANOQ/A22WN08uLsDWTmWl69XdrZUKp3BheWxvYWTESpcCTMQgpssU9QofsaeKzjaZZK2wQavJ2+/09I4roml2X0DVf0vEIJrhp7xWqZjTKEiDNCBputid7PZFpN/alfbnwnT9arEeAgHCo3NpZ8RAmsq8ddEAXqNuzJ4/x+r43oTldwlhIs5OLbbfAn7217ztgFyVIcCq3AqBOb49zEoCfJ8IQtOfEy+96Kbqo3pcBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPVkHfzzFpsaLWeOhLZU30XLIbHgqUlgg65S53B/Mrjlo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gojun077
+
+==================================================================
